@@ -7,7 +7,7 @@
 %define		pdir	POE
 %define		pnam	Component-RSS
 Summary:	POE::Component::RSS - event-based RSS parsing
-Summary(pl):	POE::Component::RSS - oparta na zdarzeniach analiza RSS
+Summary(pl.UTF-8):   POE::Component::RSS - oparta na zdarzeniach analiza RSS
 Name:		perl-POE-Component-RSS
 Version:	0.08
 Release:	1
@@ -31,10 +31,10 @@ Perl module POE::Component::RSS is an event based RSS parsing module.
 It wraps XML::RSS and provides a POE based framework for accessing the
 information provided.
 
-%description -l pl
-Modu³ Perla POE::Component::RSS analizuje RSS w oparciu o zdarzenia.
-Obudowuje XML::RSS i udostêpnia oparty na POE szkielet pozwalaj±cy na
-dostêp do dostarczanych informacji.
+%description -l pl.UTF-8
+ModuÅ‚ Perla POE::Component::RSS analizuje RSS w oparciu o zdarzenia.
+Obudowuje XML::RSS i udostÄ™pnia oparty na POE szkielet pozwalajÄ…cy na
+dostÄ™p do dostarczanych informacji.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
