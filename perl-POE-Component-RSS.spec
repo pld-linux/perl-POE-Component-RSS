@@ -7,7 +7,7 @@
 %define		pdir	POE
 %define		pnam	Component-RSS
 Summary:	POE::Component::RSS - event-based RSS parsing
-Summary(pl.UTF-8):   POE::Component::RSS - oparta na zdarzeniach analiza RSS
+Summary(pl.UTF-8):	POE::Component::RSS - oparta na zdarzeniach analiza RSS
 Name:		perl-POE-Component-RSS
 Version:	0.08
 Release:	1
