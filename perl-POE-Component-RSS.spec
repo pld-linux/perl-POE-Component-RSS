@@ -9,7 +9,7 @@ Summary:	POE::Component::RSS - event-based RSS parsing
 Summary(pl.UTF-8):	POE::Component::RSS - oparta na zdarzeniach analiza RSS
 Name:		perl-POE-Component-RSS
 Version:	0.09
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
